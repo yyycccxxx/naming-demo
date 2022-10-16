@@ -1,2 +1,10 @@
 github.com/yyycccxxx/baby-naming v1.0.0 h1:bj618vL3eUVsvT6UiGTAN+KFdY4ZKGobZ0vT7U5qTwg=
 github.com/yyycccxxx/baby-naming v1.0.0/go.mod h1:aPiZcBAyJYUV9pC7twf4lGHCJNR7AoCSWSgMBpeEa4w=
+github.com/yyycccxxx/baby-naming/v2 v2.0.0-20221016065953-751a3e2b971f h1:AWPCwZJlmw3xtVUL3kpC0GAMc8gCO6gSVDFaTcBElNU=
+github.com/yyycccxxx/baby-naming/v2 v2.0.0-20221016065953-751a3e2b971f/go.mod h1:CIowHIXvMwe4kVL5BYFy3d4FRLVSGCMQXw9q7ysQhxM=
+github.com/yyycccxxx/baby-naming/v3 v3.0.0-20221016073539-0978372c469b h1:HCBxPyBrcah/rbaUh+tmfTCPulOB1bEMy1ZYXVIdwHQ=
+github.com/yyycccxxx/baby-naming/v3 v3.0.0-20221016073539-0978372c469b/go.mod h1:34V0UXm8eIsXVdENIYa+vhJnVJOLT1QCnl0ZftV2vbI=
+github.com/yyycccxxx/baby-naming/v4 v4.0.0-20221016090301-655a965a7cf7 h1:tt82jLx6FDz+vU8lj98TY+DjXDFF4n5dbOlxlKSnzGk=
+github.com/yyycccxxx/baby-naming/v4 v4.0.0-20221016090301-655a965a7cf7/go.mod h1:1e9XI92v3C4iJ91UOaPhnaa76DbMuF2XrYDL3j7S02U=
+github.com/yyycccxxx/baby-naming/v5 v5.0.0-20221016092103-ce9fb033d467 h1:37M5HrD39KfGNqXuhrwa0EUko+j8njSI6a4qioIbaE0=
+github.com/yyycccxxx/baby-naming/v5 v5.0.0-20221016092103-ce9fb033d467/go.mod h1:yBQrQilVLpQ7WYbMIE+s1x1noSrngAfGt/SKu6VJ+ic=
